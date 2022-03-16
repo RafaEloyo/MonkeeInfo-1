@@ -41,31 +41,43 @@ nav{
 }
 
 .circulo{
-    width: 500px;
-    height: 500px;
+    width: 450px;
+    height: 450px;
     border-radius: 50%;
-    background-color: red;
+    background-color: yellow;
     margin: 50px;
-    margin-left: 50%;
-    margin-top: -20%;
-
+    margin-left: 52%;
+    margin-top: 2%;
     position: absolute;
+}
+
+.circulo_g{
+    width: 490px;
+    height: 490px;
+    border-radius: 50%;
+    background-color: rgb(240, 240, 4);
+    margin: 50px;
+    margin-left: 50.4%;
+    margin-top: 0.5%;
+    position: absolute;
+
 }
 
 h1{
     position: relative;
-    margin-top: 15%;
-    margin-left: 55%;
+    margin-top: 16%;
+    margin-left: 54%;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 35px;
 }
 
 h2{
     position: relative;
-    margin-left: 63%;
+    margin-left: 62.5%;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 35px;
 }
+
 .barra{
     position: relative;
     margin-left: -350px;
