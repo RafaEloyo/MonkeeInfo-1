@@ -52,13 +52,13 @@ nav{
 }
 
 .circulo_g{
-    width: 470px;
-    height: 470px;
+    width: 490px;
+    height: 490px;
     border-radius: 50%;
     background-color: rgb(240, 240, 4);
     margin: 50px;
-    margin-left: 52%;
-    margin-top: 2%;
+    margin-left: 50.4%;
+    margin-top: 0.5%;
     position: absolute;
 
 }
