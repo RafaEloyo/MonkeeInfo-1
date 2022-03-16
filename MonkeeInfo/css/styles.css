@@ -41,11 +41,15 @@ nav{
 }
 
 .circulo{
-    width: 1000px;
-    height: 1000px;
+    width: 500px;
+    height: 500px;
     border-radius: 50%;
     background-color: red;
     margin: 50px;
+    margin-left: 50%;
+    margin-top: -20%;
+
+    position: absolute;
 }
 
 h1{
@@ -58,7 +62,6 @@ h1{
 
 h2{
     position: relative;
-   
     margin-left: 63%;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 35px;
