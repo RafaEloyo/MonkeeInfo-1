@@ -25,18 +25,18 @@ nav{
 .nav-list li{
     
     letter-spacing: 2px;
-    margin-left: 50px;
+    margin-left: 10px;
 }
 
 .logo{
     margin-top: 3px;
-    margin-left: -238px;
+    margin-left: -180px;
 }
 
 .logo_g{
     position: relative;
     
-    margin-left: 50px;
+    margin-left: 100px;
     margin-top: -250px
 }
 
@@ -62,4 +62,9 @@ h2{
     margin-left: 63%;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 35px;
+}
+.barra{
+    position: relative;
+    margin-left: -350px;
+    margin-right: -150px;
 }
