@@ -47,7 +47,7 @@ nav{
     background-color: yellow;
     margin: 50px;
     margin-left: 52%;
-    margin-top: 2%;
+    margin-top: 5%;
     position: absolute;
 }
 
@@ -58,7 +58,7 @@ nav{
     background-color: rgb(240, 240, 4);
     margin: 50px;
     margin-left: 50.4%;
-    margin-top: 0.5%;
+    margin-top: 3.5%;
     position: absolute;
 
 }
@@ -118,4 +118,24 @@ h3{
 
 .logo_g_reclameaqui{
     position: absolute;
+
+    margin-top: 8px;
+    margin-left: 560px;
+
+}
+
+.texto_alto_reclameaqui{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    margin-left: 50px;
+    margin-top: 80px;
+
+}
+
+.texto_baixo_reclameaqui{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    margin-left: 45px;
+    margin-top: 300px;
+
 }
