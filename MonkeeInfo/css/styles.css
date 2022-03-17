@@ -100,20 +100,20 @@ h3{
     text-align: center;
     position: absolute;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    left: -220px;
+    margin-left: -222px;
     margin-top: -20px;
 }
 .logo_g_upload{
-    position: relative;
+    position: absolute;
     
-    left: 600px;
-    margin-top: 90px;
+    margin-left: 560px;
+    margin-top: 8px;
 }
 .façaupload-imagem{
-    position: relative;
+    position: absolute;
     
-    left: 190px;
-    margin-top: -280px
+    margin-left: 15%;
+    margin-top: 230px
 }
 
 .logo_g_reclameaqui{
