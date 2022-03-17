@@ -36,8 +36,8 @@ nav{
 .logo_g{
     position: relative;
     
-    margin-left: 100px;
-    margin-top: -250px
+    margin-left: 70px;
+    margin-top: -285px
 }
 
 .circulo{
@@ -101,16 +101,17 @@ h3{
     position: absolute;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     left: -220px;
+    margin-top: -20px;
 }
-.logo_upload{
+.logo_g_upload{
     position: relative;
     
-    left: 750px;
+    left: 600px;
     margin-top: 90px;
 }
 .façaupload-imagem{
     position: relative;
     
-    left: 200px;
-    margin-top: -230px
+    left: 190px;
+    margin-top: -280px
 }
