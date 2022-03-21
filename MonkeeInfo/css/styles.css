@@ -35,7 +35,6 @@ nav{
 
 .logo_g{
     position: relative;
-    
     margin-left: 70px;
     margin-top: -280px
 }
@@ -90,6 +89,7 @@ h3{
     margin-left: -350px;
     margin-right: -150px;
 }
+
 .façaupload-texto{
     text-align: center;
     position: absolute;
@@ -97,12 +97,14 @@ h3{
     margin-left: -222px;
     margin-top: -20px;
 }
+
 .logo_g_upload{
     position: absolute;
     
     margin-left: 560px;
     margin-top: 8px;
 }
+
 .façaupload-imagem{
     position: absolute;
     
