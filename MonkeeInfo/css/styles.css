@@ -37,7 +37,7 @@ nav{
     position: relative;
     
     margin-left: 70px;
-    margin-top: -240px
+    margin-top: -280px
 }
 
 .circulo{
@@ -65,15 +65,9 @@ nav{
 
 h1{
     position: relative;
-    margin-top: 16%;
-    margin-left: 54%;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 35px;
-}
-
-h2{
-    position: relative;
-    margin-left: 62.5%;
+    text-align: center;
+    margin-top: 19%;
+    margin-left: 40%;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 35px;
 }
